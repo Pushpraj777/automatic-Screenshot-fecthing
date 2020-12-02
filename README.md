@@ -1,0 +1,2 @@
+# automatic-Screenshot-fecthing
+The main objective of this project is automatic attendance fetching from each system being used as well as screen information to the Server system all the time as well as warning pop-ups on the users’ screen when the work assigned is not being done. It will help in saving time of the faculties and students so that students could complete the assigned work honestly and efficiently. Also it will keep a track of any guests logins and the screen information of the work done.
